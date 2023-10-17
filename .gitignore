@@ -1,0 +1,14 @@
+
+.DS_store
+
+#Ignora la carpeta img_cache
+
+img_cache
+
+#i Ignora todos los archivos de texto
+
+*.txt
+
+# Ignora el archivo background.jpg
+
+background.jpg
